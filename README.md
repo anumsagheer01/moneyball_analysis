@@ -1,5 +1,4 @@
 ## Moneyball Analysis: Evaluating MLB Team Spending Efficiency
-## To view- https://anumsagheer01.github.io/moneyball_analysis/
 
 ### Project Overview
 
